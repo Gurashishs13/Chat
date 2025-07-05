@@ -1,0 +1,3 @@
+#!/bin/sh
+export MAVEN_WRAPPER_DISABLE_SELF_UPDATE=true
+exec "$(dirname "$0")/mvnw" "$@"
